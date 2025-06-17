@@ -1,5 +1,5 @@
 
-# 📊 WhatsApp Group Health Analyzer
+# 📊Chat Checkup
 
 Welcome to the **WhatsApp Group Health Analyzer** — a data analytics project designed to analyze and visualize the health and dynamics of WhatsApp group conversations using Python. Whether you're curious about group activity trends, user participation, or sentiment changes over time, this tool provides a complete overview!
 
