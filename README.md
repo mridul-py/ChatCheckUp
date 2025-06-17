@@ -112,6 +112,6 @@ If you found this project interesting, consider starring ⭐ the repo or sharing
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [CC0-1.0 license](LICENSE).
 
 ---
